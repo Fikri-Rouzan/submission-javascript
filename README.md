@@ -1,1 +1,1 @@
-This was the final learning submission I completed in the Belajar Dasar Pemrograman JavaScript class from Dicoding.
+Final learning submission for the Belajar Dasar Pemrograman JavaScript class from Dicoding.
