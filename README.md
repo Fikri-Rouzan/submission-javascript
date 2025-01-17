@@ -7,4 +7,4 @@ Final learning submission for the Belajar Dasar Pemrograman JavaScript class fro
 ## Technologies Used
 
 - Programming Language: JavaScript.
-- Software: Visual Studio Code and GitHub.
+- Software: Visual Studio Code.
