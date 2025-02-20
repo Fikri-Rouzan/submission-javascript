@@ -2,7 +2,7 @@
 
 ## About
 
-Final learning submission for the Belajar Dasar Pemrograman JavaScript class from Dicoding.
+Submission for Belajar Dasar Pemrograman JavaScript from Dicoding.
 
 ## Technologies Used
 
