@@ -17,6 +17,7 @@ function addOrder(customerName, items) {
     totalPrice,
     status: "Menunggu",
   };
+
   orders.push(newOrder);
 }
 

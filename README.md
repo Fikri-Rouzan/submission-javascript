@@ -1,10 +1,10 @@
 # Submission JavaScript
 
-## About
+## ℹ️ About
 
-Submission for Belajar Dasar Pemrograman JavaScript from Dicoding.
+Submission for the Belajar Dasar Pemrograman JavaScript course by Dicoding.
 
-## Technologies Used
+## 🛠️ Technologies Used
 
-- Programming Language: JavaScript.
-- Software: Visual Studio Code.
+- 🌐 Programming Language: JavaScript.
+- 💻 Software: Visual Studio Code.

@@ -1,7 +1,7 @@
 // Jangan ubah kode di berkas ini.
 
 function sum(a, b) {
-  if (typeof a !== 'number' || typeof b !== 'number') {
+  if (typeof a !== "number" || typeof b !== "number") {
     return 0;
   }
 
